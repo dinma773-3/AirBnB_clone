@@ -51,9 +51,9 @@ $
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
 
 ### Authors:
-Osaivbie Iguagbonmwen
-[GitHub](https://github.com/Pintinz)
-[Email](mailto:osaivbieiguagbonmwen@gmail.com)
-Godsfavour Chukwudi
-[GitHub](https://github.com/dinma773-3)
+Osaivbie Iguagbonmwen\n
+[GitHub](https://github.com/Pintinz)\n
+[Email](mailto:osaivbieiguagbonmwen@gmail.com)\n
+Godsfavour Chukwudi\n
+[GitHub](https://github.com/dinma773-3)\n
 [Email](mailto:godsfavourchukwudi21@gmail.com)
