@@ -52,8 +52,8 @@ All tests should also pass in non-interactive mode: $ echo "python3 -m unittest 
 
 ### Authors:
 Osaivbie Iguagbonmwen
-<a href="https://github.com/Pintinz">alt GitHub</a>
-<a href="osaivbieiguagbonmwen@gmail.com">alt Email</a>
+[GitHub] (https://github.com/Pintinz)
+[Email](mailto:osaivbieiguagbonmwen@gmail.com)
 Godsfavour Chukwudi
-<a href="https://github.com/dinma773-3">alt GitHub</a>
-<a href="godsfavourchukwudi21@gmail.com">alt Email</a>
+[GitHub] (https://github.com/dinma773-3)
+[Email](mailto:godsfavourchukwudi21@gmail.com)
